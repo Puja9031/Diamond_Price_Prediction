@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: DiamondPricePrediction
+Version: 0.0.1
+Author: Puja
+Author-email: example@gmail.com
+Requires-Dist: pandas
+Requires-Dist: sklearn
