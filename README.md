@@ -282,7 +282,7 @@ The model comparison visualization employs several design elements to effectivel
 
 This visualization plays a crucial role in building user trust by transparently showing why Random Forest was chosen to make diamond price predictions, rather than treating the model selection as a "black box" decision.
 
-##Sample Output
+## Sample Output
 <img width="997" height="847" alt="dai1" src="https://github.com/user-attachments/assets/540bc93d-450e-410f-9063-e9333c90c7aa" />
 <img width="1367" height="476" alt="dai2" src="https://github.com/user-attachments/assets/54115a62-8a0a-452b-bbba-c8bc5e623ae9" />
 
