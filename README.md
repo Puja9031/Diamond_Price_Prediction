@@ -282,6 +282,12 @@ The model comparison visualization employs several design elements to effectivel
 
 This visualization plays a crucial role in building user trust by transparently showing why Random Forest was chosen to make diamond price predictions, rather than treating the model selection as a "black box" decision.
 
+##Sample Output
+<img width="997" height="847" alt="dai1" src="https://github.com/user-attachments/assets/540bc93d-450e-410f-9063-e9333c90c7aa" />
+<img width="1367" height="476" alt="dai2" src="https://github.com/user-attachments/assets/54115a62-8a0a-452b-bbba-c8bc5e623ae9" />
+
+<img width="815" height="801" alt="dai3" src="https://github.com/user-attachments/assets/08224d2c-54b7-4069-9cf4-8d783296a279" />
 ## Conclusion
+
 
 The Diamond Price Prediction project demonstrates a well-structured approach to building a machine learning application. It follows good software engineering practices like modularization, error handling, and logging while implementing a clear machine learning workflow from data ingestion to model deployment. The project serves as both a useful tool for diamond price prediction and a template for building other machine learning applications. 
